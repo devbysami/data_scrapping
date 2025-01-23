@@ -15,4 +15,5 @@ This project is a web scraper designed to extract product data from the website.
    ```bash
    git clone https://github.com/devbysami/data_scrapping.git
    cd data_scrapping
+   pip install -r requirements.txt
    ```
